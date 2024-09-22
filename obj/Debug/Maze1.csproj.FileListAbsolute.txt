@@ -1,0 +1,7 @@
+C:\Users\Хозяин\source\repos\Maze1\Maze1\bin\Debug\Maze1.exe.config
+C:\Users\Хозяин\source\repos\Maze1\Maze1\bin\Debug\Maze1.exe
+C:\Users\Хозяин\source\repos\Maze1\Maze1\bin\Debug\Maze1.pdb
+C:\Users\Хозяин\source\repos\Maze1\Maze1\obj\Debug\Maze1.csproj.AssemblyReference.cache
+C:\Users\Хозяин\source\repos\Maze1\Maze1\obj\Debug\Maze1.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\source\repos\Maze1\Maze1\obj\Debug\Maze1.exe
+C:\Users\Хозяин\source\repos\Maze1\Maze1\obj\Debug\Maze1.pdb
