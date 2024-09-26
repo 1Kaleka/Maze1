@@ -70,7 +70,7 @@ namespace Maze1
                 for (int i = 0; i < dx.Length; i++)
                 {
                     int newX = currentNode.X + dx[i];
-                    int newY = currentNode.Y + dx[i];
+                    int newY = currentNode.Y + dy[i];
 
                     if (IsValid(newX, newY))
                     {

@@ -33,6 +33,7 @@ namespace Maze1
             Units units = new Units();
             units.Add(player);
             units.Add(obstacle);
+            units.Add(enemy);
 
             renderer.Render();
 

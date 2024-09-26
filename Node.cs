@@ -31,7 +31,7 @@ namespace Maze1
             Value = Cost + Estimate;
         }
 
-        public override bool Equals(object obj)
+        public override bool Equals(object? obj)
         {
             if (obj is not Node node)
                 return false;
