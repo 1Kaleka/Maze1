@@ -53,7 +53,7 @@ namespace Maze1
                     if (unit == player)
                         continue;
 
-                if (player.X == obstacle.X && player.Y == obstacle.Y)
+                if (player.X == unit.X && player.Y == unit.Y)
                     GameOver();
                 }
             }
